@@ -1,2 +1,2 @@
 # code
-Contains code for various tools
+Contains code for various projects
